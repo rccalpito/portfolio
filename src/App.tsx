@@ -1,12 +1,9 @@
 import './App.css'
+import AppRouter from './routes/AppRouter'
 
 function App() {
   return (
-    <>
-      <div>
-        dillon is gay
-      </div>
-    </>
+    <AppRouter />
   )
 }
 
